@@ -1,5 +1,4 @@
 <?php
-
 /**
  * This class provides the functionality to encrypt
  * and decrypt access tokens stored by the application
